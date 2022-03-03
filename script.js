@@ -63,7 +63,7 @@ function settedTime() {
     }
     if (nightValue == hours) {
         document.querySelector('#msg-text').innerText = "CLOSE YOUR EYES & GO TO SLEEP";
-        document.querySelector('#msg-img').style.background = "url(goodnight_image.png)";
+        document.querySelector('#msg-img').style.background = "url(good_night.png)";
         document.querySelector('.good-wish-text').innerText = "GOOD NIGHT !!"
     }
 
